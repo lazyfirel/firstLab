@@ -1,1 +1,3 @@
 newToIgnore.txt
+out/*
+out
