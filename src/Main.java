@@ -5,5 +5,6 @@ public class Main {
 	System.out.println("ThirdCommit!!!!!");
         System.out.println("masterBranch");// where is temporary output? merge must be!
         System.out.println("temporayBranch");//tt
+        System.out.println("toDiff");
     }
 }
