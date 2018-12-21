@@ -1,3 +1,4 @@
 newToIgnore.txt
 out/*
 out
+.idea/workspace.xml
